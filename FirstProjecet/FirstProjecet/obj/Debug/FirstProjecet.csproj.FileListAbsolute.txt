@@ -1,0 +1,8 @@
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\bin\Debug\FirstProjecet.exe.config
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\bin\Debug\FirstProjecet.exe
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\bin\Debug\FirstProjecet.pdb
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\obj\Debug\FirstProjecet.csproj.AssemblyReference.cache
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\obj\Debug\FirstProjecet.csproj.SuggestedBindingRedirects.cache
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\obj\Debug\FirstProjecet.csproj.CoreCompileInputs.cache
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\obj\Debug\FirstProjecet.exe
+C:\Users\nandu\Desktop\C#\FirstProjecet\FirstProjecet\obj\Debug\FirstProjecet.pdb

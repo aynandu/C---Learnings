@@ -1,0 +1,48 @@
+program to execute:
+add name of the book and auther name from the user;
+
+class book , class librabry are executed
+
+from class Book{
+#what i want in books , create a datatyoe of  name and author.
+
+init a property for Name 
+init a property for Author
+
+}
+
+from library class{
+	#what i want in library,add and disply all books and author details.
+	field name;
+	field list<Book> bookz;
+
+ 	created a bookz as a list with datatype Book. 
+
+	from Addbook() method:{
+		console
+		get a name of the book from the user and save it ; ${name}
+		console
+		get a Author name from the user and save it ; ${author}
+
+		now creating a book object .
+
+		Book book = new Book();
+		book.Name=name;
+		book.Author=author;
+		bookz.Add(book)
+	}
+	display(){
+		foreach (book in bookz){
+			console.writeline(book)
+		}
+	}
+}
+
+
+program,css
+
+Library lib = new Library();
+lib.Addbook();
+lib.Display();
+
+
