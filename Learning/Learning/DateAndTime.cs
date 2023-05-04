@@ -10,8 +10,8 @@ namespace Learning
     {
         public void DateTime()
         {
-            //DateTime myValue = DateTime.Now;
-            //Console.WriteLine(myValue.ToString());
+            var date = new DateTime();
+            Console.WriteLine(date);
         }
     }
 }

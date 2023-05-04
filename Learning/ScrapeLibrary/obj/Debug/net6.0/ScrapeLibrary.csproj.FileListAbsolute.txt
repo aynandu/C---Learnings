@@ -1,0 +1,12 @@
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\bin\Debug\net6.0\ScrapeLibrary.deps.json
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\bin\Debug\net6.0\ScrapeLibrary.dll
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\bin\Debug\net6.0\ScrapeLibrary.pdb
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.csproj.AssemblyReference.cache
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.AssemblyInfoInputs.cache
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.AssemblyInfo.cs
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.dll
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\refint\ScrapeLibrary.dll
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.pdb
+C:\Users\nandu\Desktop\C#\Learning\ScrapeLibrary\obj\Debug\net6.0\ref\ScrapeLibrary.dll
